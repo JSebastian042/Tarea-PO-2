@@ -27,9 +27,9 @@ class program
 
         Book book1 = new Book
         {
-            Title = "El señor de los Anillos",
-            Author = "J.R.R. Tolkien",
-            PublicationYear = "1954",
+            Title = "Condores No Entierran Todos Los Dias",
+            Author = "Gabriel Garcia Marquez",
+            PublicationYear = "1984",
             NumberPages = 1178
         };
 
@@ -44,7 +44,7 @@ class program
 
         Magazine magazine1 = new Magazine
         {
-            Title = "Ntional Geograpic",
+            Title = "National Geographic",
             Author = "Varios",
             PublicationYear = "2023",
             EditionNumber = 199
